@@ -1,6 +1,6 @@
 - 👋 Hola buenas, Soy Daniel Álvarez
-- 👀 Estoy insteresado en programación principalmente web y aplicaciones en python
-- 🌱 Actualmente estoy estudiando cloud principalmente en Azure
+- 👀 Estoy insteresado en programación web y aplicaciones en python
+- 🌱 Actualmente estoy estudiando cloud en Azure
 - 💞️ Estoy interesado en colaborar en desarrollo de apps en linux principalmente
 - 📫 Contacto: danierubr@gmail.com
 
