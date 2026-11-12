@@ -1,5 +1,5 @@
 - 👋 Hola buenas, Soy Daniel Álvarez
-- 👀 Estoy insteresado en programación web y aplicaciones en python
+- 👀 Estoy insteresado en programación web y aplicaciones en python, actualmente tambien probando Rust
 - 🌱 Actualmente estoy trabajando como devops en AWS principalmente
 - 💞️ Estoy interesado en colaborar en desarrollo de apps en linux principalmente
 - 📫 Contacto: danierubr@gmail.com
